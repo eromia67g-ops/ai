@@ -1,0 +1,5 @@
+{
+  "name": "Emu.ai",
+  "description": "A futuristic AI chatbot powered by Gemini, featuring real-time voice, screen sharing, and the witty Ero persona.",
+  "requestFramePermissions": ["geolocation", "camera", "microphone", "display"]
+}
